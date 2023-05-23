@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://i.stack.imgur.com/vhoa0.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-top: 150px;
+}
+button{
+    width: 60px;
+    height: 25px;
+    font-weight: bold;
+    border-color: burlywood;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: skyblue;
+}
+input[type=number]{
+    width: 200px;
+    height: 20px;
+    box-shadow: 0 0 20px;
+}
